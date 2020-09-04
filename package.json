@@ -11,7 +11,7 @@
     "dev-server": "webpack-dev-server"
   },
   "dependencies": {
-    "node-sass": "4.5.3",
+    "node-sass": "4.13.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-modal": "2.2.2",
